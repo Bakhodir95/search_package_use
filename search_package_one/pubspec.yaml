@@ -1,16 +1,19 @@
 name: search_package_one
-description: A starting point for Dart libraries or applications.
+description: |
+  This package provides implementations of common search algorithms including Linear Search, Binary Search, and Jump Search.
+  It supports searching through lists of both integers and strings. Each search function returns the index of the target element
+  if found, otherwise it returns -1. The package is designed to demonstrate basic search algorithms and their usage in Dart.
+
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
 
-
+homepage: https://github.com/Bakhodir95/search_package_use.git
+repository: https://github.com/Bakhodir95/search_package_use.git
 environment:
   sdk: ^3.4.4
 
 # Add regular dependencies here.
 dependencies:
   test: ^1.25.8
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^3.0.0
