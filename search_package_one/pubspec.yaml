@@ -1,7 +1,7 @@
 name: search_package_one
 description: |
-  This package provides implementations of common search algorithms including Linear Search, Binary Search, and Jump Search.
-  Each search function returns the index of the target element if found, otherwise it returns -1. 
+  Provides implementations of Linear Search, Binary Search, and Jump Search algorithms.
+  Supports lists of integers and strings, returning the index of  target element or -1 if not found.
 
 version: 1.0.1
 
